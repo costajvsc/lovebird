@@ -1,0 +1,90 @@
+body{
+    background-color: #D9D3C1;
+    
+}
+.title{
+    color: #D97398;
+    font-family: 'Sacramento', cursive;
+    font-size: 3em;
+}
+.text{
+    color: #F29544;
+    font-family: 'Josefin Slab', serif;
+    font-size: 1.5em
+}
+a {
+    font-family: 'Josefin Slab', serif;
+    color: #F29544;
+    font-size: 1.5rem
+}
+a:hover{
+    color: #F29544
+}
+a:active{
+    color: #F29544
+}
+footer{
+    background-color: #D97398;
+}
+.copy{
+    font-family: 'Josefin Slab', serif !important;
+    color: #D9D3C1;
+    font-size: 1.5rem;
+    padding: .5rem 0;
+}
+.img-convidado{
+    border-color: #F29544;
+}
+.card-body{
+    background-color: #D9D3C1;
+    text-align: center;
+}
+.card-title{
+    color: #D97398;
+    font-family: 'Sacramento', cursive;
+    font-size: 2em;
+}
+.card-description, .count-text{
+    font-family: 'Josefin Slab', serif !important;
+    color: #F29544;
+    font-size: 1.5em;
+}
+.btn-confirm{
+    background-color: #D97398;
+    border-color: #FFFFFF;
+    border-width: 1;
+    font-family: 'Sacramento', cursive;
+    color: #F29544;
+    font-size: 1.5em;
+    border-radius: 90px;
+}
+.btn-confirm:hover{
+    color: #F29544;
+}
+.btn-confirm:active{
+    color: #FFF;
+    box-shadow: #F29544;
+}
+.count-number{
+    color: #D97398;
+    font-family: 'Sacramento', cursive;
+    font-size: 1.5em;
+}
+#form-login{
+    width: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.comentario{
+    border-top: #F29544 1px solid;
+    border-bottom: #F29544 1px solid;
+}
+
+.text-1em {
+    font-size: 1em;
+}
+.modal-custom{
+    background-color: #D9D3C1;
+}
